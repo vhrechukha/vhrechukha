@@ -8,4 +8,4 @@ I'm a nodejs + react developer who you're looking for.
 
 ⚡ Proactive and responsible team player, never afraid to seem inexperienced or admit my own mistakes. Values learning abilities over knowledge, transparency over assumptions, and awareness over ignorance.
 
-Feel free to contact me via LinkedIn or email.
+Feel free to contact me via LinkedIn.
