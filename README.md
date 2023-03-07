@@ -1,11 +1,8 @@
-### Hi there 👋
+The most interested in IoT projects.
 
-I'm a nodejs + react developer who you're looking for.
+Specialize in BE with main technology stack: NodeJS, TS, SQL, MongoDB, NestJs, Express, AWS.
+Have experience in FE: ReactJS, Angular, Redux, MUI.
 
-🌱 Main stack of technologies: ReactJs, NodeJs, Typescript, NestJs, Express, MongoDB, SQL databases. 
+Contributor to Open-Souse project DefinitelyTyped @types/clamscan and non-profit volunteer projects.
 
-📫 Contributor to Open-Souse project DefinitelyTyped @types/clamscan and active contributor on non-profit volunteer projects.
-
-⚡ Proactive and responsible team player, never afraid to seem inexperienced or admit my own mistakes. Values learning abilities over knowledge, transparency over assumptions, and awareness over ignorance.
-
-Feel free to contact me via LinkedIn.
+Feel free to contact me via LinkedIn or Email.
