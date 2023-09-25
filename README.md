@@ -1,8 +1,11 @@
-**Specialize in BE with main technology stack:** NodeJS, TS, SQL, MongoDB, NestJs, Express, AWS.<br>
-**Have experience in FE:** ReactJS, Angular, Redux, MUI.
+Open-Source contributions: 
+- [ssh-manager](https://github.com/vhrechukha/ssh-manager) - utility for organizing and connecting to remote servers via SSH
+- [@types/clamscan](https://www.npmjs.com/package/@types/clamscan) - type definitions for clamscan
+- [sybjet](https://www.npmjs.com/package/sybjet) - a Node.js bridge to connect to a Sybase database
+<br>
+Non-profit project for Ukrainian students🇺🇦: https://abitly.org
 <br>
 <br>
-Contributor to Open-Souse project DefinitelyTyped **@types/clamscan** and non-profit volunteer projects.
+Email: viktoriia.hrechukha@gmail.com
 <br>
-<br>
-Feel free to contact me via **LinkedIn** or **Email**.
+LinkedIn: www.linkedin.com/in/vhrechukha
